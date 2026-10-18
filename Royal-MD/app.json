@@ -1,0 +1,17 @@
+{
+  "name": "Royal MD Pairing Service",
+  "description": "Pairing service for Royal MD WhatsApp bot",
+  "logo": "https://files.catbox.moe/prkkzj.png",
+  "repository": "",
+  "keywords": [
+    "Royal MD",
+    "WhatsApp bot"
+  ],
+  "env": {
+    "MESSAGE": {
+      "description": "Msg Attached With Session ID",
+      "value": "\ud83d\udd30 BY || ARSLAN-MD OFFICIAL \ud83d\udd30",
+      "required": false
+    }
+  }
+}
